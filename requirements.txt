@@ -1,0 +1,9 @@
+# Project 1 — First Payment Default (reproducibility)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+shap
